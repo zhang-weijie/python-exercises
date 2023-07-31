@@ -1,3 +1,3 @@
 # python-exercises
 
-Do it yourself!
+Exercises done by me when learning python several years ago.
