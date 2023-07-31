@@ -1,0 +1,25 @@
+https://hss5.dnvodcdn.me/ppot/_definst_/mp4:s11/dvod/cr-wyjrnxscnzjsdjgx-01-00CC24D1F-hd.mp4/chunklist.m3u8?dnvodendtime=1664114804&dnvodhash=3u34SgsxQ2HADvKBW6GCOdOCOiMOPEjm_gl61birCME=&dnvodCustomParameter=128830926_134.101.2.101.DE_1&lb=a307020f2df416d46ea13e0c4e7847d0&us=1&vv=b0d5ad2c46ab2b60e40ea8e5f332da70&pub=1663938019313
+https://hss5.dnvodcdn.me/ppot/_definst_/mp4:s11/dvod/cr-wyjrnxscnzjsdjgx-01-00CC24D1F-hd.mp4/chunklist.m3u8?dnvodendtime=1664287604&dnvodhash=3u34SgsxQ2HADvKBW6GCOdOCOiMOPEjm_gl61birCME=&dnvodCustomParameter=128830926_134.101.2.101.DE_1&lb=a307020f2df416d46ea13e0c4e7847d0&us=1&vv=b0d5ad2c46ab2b60e40ea8e5f332da70&pub=1663938019313
+https://hss6.dnvodcdn.me/ppot/_definst_/mp4:s6/gvod/cr-ccshznssgzyw-01-01E3FC4E1-hd.mp4/chunklist.m3u8?dnvodendtime=1664114786&dnvodhash=VfXvMV2WzR_wXpdQTyHHmb72FQ8g25YHrrL0AHIP8JQ=&dnvodCustomParameter=128830926_134.101.2.101.DE_1&lb=2de01b1fa87e50ef647d1cbfa2680ac1&us=1&vv=d10d69bb93efe0a04a8dfdd726e45e38&pub=1663938019313
+https://hss10.dnvodcdn.me/ppot/_definst_/mp4:s10/gvod/cr-zscjxa-01-02804781C-hd.mp4/chunklist.m3u8?dnvodendtime=1664114486&dnvodhash=tshRt9JIP-JLMfCv3OqoxIRNw3CRDLnpCXdrYN-jwaw=&         dnvodCustomParameter=128830926_134.101.2.101.DE_1&lb=e67e6302b9d40fcb56706d36aca347d9&us=1&vv=9cb9d63dd65687edab9a72e205ac1840&pub=1663938019313
+
+https://hss8-s1.dnvodcdn.me/ppot/_definst_/mp4:s8/ivod/cr-yggqmjcdqt-01-018D029DC-hd.mp4/chunklist.m3u8?dnvodendtime=1664124960&dnvodhash=5AmdHyvJWQhARLyNeDExa9MWz1qPkDa_FgiYaZ6-uVM=&dnvodCustomParameter=128830926_134.101.2.101.DE_1&lb=223428b074f0eceff3e1cfe13c8f49b7&us=1&vv=c7f377baec9a0d7c1ff1a901a271a153&pub=1663948403893
+https://hss8-s1.dnvodcdn.me/ppot/_definst_/mp4:s8/ivod/cr-yggqmjcdqt-01-018D029DC-hd.mp4/chunklist.m3u8?dnvodendtime=1664209100&dnvodhash=5AmdHyvJWQhARLyNeDExa9MWz1qPkDa_FgiYaZ6-uVM=&dnvodCustomParameter=128830926_134.101.2.101.DE_1&lb=223428b074f0eceff3e1cfe13c8f49b7&us=1&vv=c7f377baec9a0d7c1ff1a901a271a153&pub=1663948403893
+https://hss10.dnvodcdn.me/ppot/_definst_/mp4:s10/ivod/cr-yggqmjcdqt-yulan-01799FF85.mp4/media_2.ts?     dnvodendtime=1664125252&dnvodhash=UMEgp59T7C0uznNWO41DDP7Ia6hiGZ6Q1lSKYyi3brs=&dnvodCustomParameter=0_134.101.2.101.DE_1&lb=e2724c81e35d6df493a5f76232ef10de&us=1&vv=8e4dd269fe357a176ed2b3074d40a1ed&pub=1663948403893
+
+https://hss10.dnvodcdn.me/ppot/_definst_/mp4:s10/hvod/cr-pldmtjj-01-014B7F25A-hd.mp4/media_3.ts?dnvodendtime=1664128101&dnvodhash=Hy0f2kSvF4Av1au2ePWNEDXjjHtzTGskZsfjoWhhG3Y=&dnvodCustomParameter=128830926_134.101.2.101.DE_1&lb=2e2723743f5a7f066d387c1437c8810b&us=1&vv=8764b373661c5a9671662e84a5278b96&pub=1663951691535
+https://hss10.dnvodcdn.me/ppot/_definst_/mp4:s10/ivod/cr-pldmtjj-yulan-006ABA4F4.mp4/media_3.ts?dnvodendtime=1664128153&dnvodhash=lmHuJh1-MJr8ylNyCAauyt_Q7_RKQB4bJBjuga8-vbc=&dnvodCustomParameter=        0_134.101.2.101.DE_1&lb=13474f829ec4dd3f1071016e1252bac8&us=1&vv=b10d87143dc6fd430ce7cbac9be45873&pub=1663951691535
+
+https://hss10.dnvodcdn.me/ppot/_definst_/mp4:s10/hvod/cr-pldmtjj-01-014B7F25A-hd.mp4/chunklist.m3u8?dnvodendtime=1664128480&dnvodhash=H-s4mFvFys-KpIDqQB2L4WL8vW437em4pNMjmeeXPg8=&dnvodCustomParameter=129010038_134.101.2.101.DE_1&lb=2e2723743f5a7f066d387c1437c8810b&us=1&vv=7cfa9cf77678f91ccf369c4c2b205f57&pub=1663952076043
+https://hss10.dnvodcdn.me/ppot/_definst_/mp4:s10/hvod/cr-pldmtjj-01-014B7F25A-hd.mp4/media_5.ts?dnvodendtime=1664128480&dnvodhash=H-s4mFvFys-KpIDqQB2L4WL8vW437em4pNMjmeeXPg8=&dnvodCustomParameter=129010038_134.101.2.101.DE_1&lb=2e2723743f5a7f066d387c1437c8810b&us=1&vv=7cfa9cf77678f91ccf369c4c2b205f57&pub=1663952076043
+https://www.wyav.tv/detail?id=1zBbcR80YM0
+https://hss10.dnvodcdn.me/ppot/_definst_/mp4:s10/hvod/cr-pldmtjj-01-014B7F25A-hd.mp4/media_0.ts?dnvodendtime=1664209100&dnvodhash=H-s4mFvFys-KpIDqQB2L4WL8vW437em4pNMjmeeXPg8=&dnvodCustomParameter=129010038_134.101.2.101.DE_1&lb=2e2723743f5a7f066d387c1437c8810b&us=1&vv=7cfa9cf77678f91ccf369c4c2b205f57&pub=1663952076043
+
+1664036300
+1664209100
+
+ffmpeg.exe -allowed_extensions ALL -protocol_whitelist file,http,https,tcp,tls,crypto -i kuis2.m3u8 1.ts
+
+https://hss8-s1.dnvodcdn.me/ppot/_definst_/mp4:s8/ivod/cr-yggqmjcdqt-01-018D029DC-hd.mp4/chunklist.m3u8?dnvodendtime=1664134853&dnvodhash=jqnncy4gEp1p9HrifFQXizapQ7-206oduv10nZJbwV4=&dnvodCustomParameter=128830926_134.101.2.101.DE_1&lb=223428b074f0eceff3e1cfe13c8f49b7&us=1&vv=2024747f9998963c87258bda75b4e6fb&pub=1663958452968
+https://hss8.dnvodcdn.me/ppot/_definst_/mp4:s8/kvod/cr-gbyqbmrqljyh-01-03527C9A7-hd.mp4/media_5.ts?dnvodendtime=1664136782&dnvodhash=XiR4lmIEnJyilUXdQpN9vQTbcfy9Dp2PdTn95mJ5mC8=&dnvodCustomParameter=128830926_134.101.2.101.DE_1&lb=146149a63423115dc37fe7d3cc0fef5f&us=1&vv=d9f7d3e98a921a3ff3b5a186a788aea1&pub=1663960381323
+https://hss8.dnvodcdn.me/ppot/_definst_/mp4:s8/kvod/cr-rsccgcdjd-01-0193ADEB7-hd.mp4/chunklist.m3u8?dnvodendtime=1664138492&dnvodhash=E_DEMhUFeTNoJCn0ufs7cz-SEiy7-Izi26oqymtrtaQ=&dnvodCustomParameter=128830926_134.101.2.101.DE_1&lb=ef3b5b49f55d33f661da78d902259608&us=1&vv=1fbd54895db121a56d50a2a6a2efa590&pub=1663962087384
